@@ -1,1 +1,1 @@
-Hi, I am [https://github.com/bcer-dev](Brayden Rayner) 👋
+Hi, I am [Brayden Rayner](https://github.com/bcer-dev) 👋
