@@ -1,4 +1,4 @@
-<h2>Hi, I am <a href="https://github.com/bcer-dev">Brayden</a> 👋</h1>
+<h1>Hi, I am <a href="https://github.com/bcer-dev">Brayden</a> 👋</h1>
 
 ## About Me
 My name is Brayden Rayner. I am a Canadian high-school student and self-taught programmer. The languages I am best with are C and C++, but I have worked with other languages in the past, such as Python, C# (with Unity) and JavaScript. In my free time, I enjoy working on coding challenges and side-projects. I am also interested in mathematics and physics.
