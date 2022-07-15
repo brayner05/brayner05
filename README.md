@@ -11,4 +11,6 @@ My name is Brayden Rayner. I am a Canadian high-school student and self-taught p
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcer-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcer-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
