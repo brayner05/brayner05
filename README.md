@@ -10,7 +10,7 @@ My name is Brayden Rayner. I am a Canadian high-school student and self-taught p
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
 </div>
 
-
+## My Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcer-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Top Languages"/>
 </div>
