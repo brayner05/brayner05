@@ -1,4 +1,4 @@
-# Hi, I am [Brayden Rayner](https://github.com/bcer-dev) 👋
+<h1 align="center">Hi, I am [Brayden Rayner](https://github.com/bcer-dev) 👋</h1>
 
 ![_bcer_ CodeWars](https://www.codewars.com/users/_bcer_/badges/large)
 ## About Me
