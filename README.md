@@ -7,6 +7,7 @@ My name is Brayden Rayner and I am a Canadian high-school student who really lik
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
 </div>
 
