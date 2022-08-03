@@ -1,4 +1,5 @@
-<h1>Hi, I am <a href="https://github.com/bcer-dev">Brayden</a> 👋</h1>
+<h1>Hi, I am <a href="https://bcer-dev.github.io">Brayden</a> 👋</h1>
+<a href="https://bcer-dev.github.io">My Portfolio Site</a>
 
 ## 👨‍💻 About Me
 My name is Brayden Rayner and I am a Canadian high-school student who really likes computers. I like to code whenever I can and I also enjoy studying mathematical concepts that relate to computer science. I plan to go to university for computer science once I am finished high school.
