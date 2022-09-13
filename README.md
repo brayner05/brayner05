@@ -17,4 +17,6 @@ My name is Brayden Rayner and I am a Canadian high-school student who really lik
 ## 💪 My Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcer-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Top Languages"/>
+  <img src="https://www.codewars.com/users/_bcer_/badges/large" alt="CodeWars Stats" />
 </div>
+
