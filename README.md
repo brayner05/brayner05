@@ -9,15 +9,13 @@ My name is Brayden Rayner and I am a Canadian high-school student who really lik
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" width="40" height="40" alt="Julia"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
 </div>
 
 ## 💪 My Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcer-dev&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Top Languages"/>
   <div></div>
-  <img src="https://www.codewars.com/users/brayner/badges/large" alt="CodeWars Stats" />
+  <!--img src="https://www.codewars.com/users/brayner/badges/large" alt="CodeWars Stats"-->
 </div>
 
