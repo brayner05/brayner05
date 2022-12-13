@@ -9,7 +9,7 @@ My name is Brayden Rayner and I am an aspiring computer science student. I am cu
   <p align="center" style="margin-top: 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" width="40" height="40" alt="HTML"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
   </p>
 </div>
