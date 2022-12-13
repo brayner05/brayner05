@@ -2,11 +2,7 @@
 <a href="https://bcer-dev.github.io">My Portfolio Site (Work in Progress)</a>
 
 ## 👨‍💻 About Me
-My name is Brayden Rayner and I am an aspiring computer science student. I am currently applying to various universities and cannot wait to begin my studies of the field. I am fairly skilled in the C++ and C languages, and I am taking my high schools computer science class.
-
-I also enjoy mathematical concepts that have applications in computer science, and I am currently self-studying discrete mathematics.
-
-In my free time I enjoy coding, playing video games, golfing, and learning languages.
+My name is Brayden Rayner and I am an aspiring computer science student. I am currently applying to various universities and cannot wait to begin my studies of the field. I am fairly skilled in the C++ and C languages, and I am taking my high schools computer science class. I also enjoy mathematical concepts that have applications in computer science, and I am currently self-studying discrete mathematics. In my free time I enjoy coding, playing video games, golfing, and learning languages.
 
 ## 💪 My Stats
 <div>
