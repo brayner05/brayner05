@@ -16,9 +16,9 @@ My name is Brayden Rayner and I am an aspiring computer science student. I am cu
 ## 💪 My Stats
 <div>
     <p align="center" style="margin-top: 20px;">
-        <img align="" src="https://github-readme-stats.vercel.app/api?username=bcer-dev&show_icons=true&theme=gruvbox" alt="stats"/>
+        <img align="" src="https://github-readme-stats.vercel.app/api?username=brayner05&show_icons=true&theme=gruvbox" alt="stats"/>
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcer-dev&langs_count=5&theme=gruvbox&layout=compactgithub-readme-stats" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayner05&langs_count=5&theme=gruvbox&layout=compactgithub-readme-stats" alt="Top Languages"/>
     </p>
 </div>
