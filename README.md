@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brayden Rayner
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.rayn05)<br>
-🔭 I’m currently working on <strong>[custom-shell](https://github.com/brayner05/custom-shell)</strong><br>🌱 I’m currently learning <strong>discrete mathematics, calculus, Java</strong><br>💬 Ask me about <strong>C</strong><br>⚡ Fun fact: <strong>I love to cook</strong>
+🔭 I’m currently working on <strong>[jpeg2ascii](https://github.com/brayner05/jpeg2ascii)</strong><br>🌱 I’m currently learning <strong>discrete mathematics, calculus, Java</strong><br>💬 Ask me about <strong>C</strong><br>⚡ Fun fact: <strong>I love to cook</strong>
 
 
 # 💻 Tech Stack
