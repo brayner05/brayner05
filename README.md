@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brayden Rayner
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.rayn05)<br>
-🔭 I’m currently working on <strong>[jpeg2ascii](https://github.com/brayner05/jpeg2ascii)</strong><br>🌱 I’m currently learning <strong>Java</strong><br>
+🔭 I’m currently working on <strong>[jpeg2ascii](https://github.com/brayner05/jpeg2ascii)</strong><br>🌱 I’m currently learning <strong>Kotlin, x86 Assembly</strong><br>
 
 
 # 💻 Tech Stack
