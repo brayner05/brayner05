@@ -1,5 +1,6 @@
 # Brayden Rayner
-<a href="b.rayn05.github.io" style="display: block;">My Website</a>
+<a href="b.rayn05.github.io">My Website</a>
+<br />
 I am a first year computer science student at Dalhousie University. As well as a passionate programmer who enjoys creating all sorts of different tech projects. I enjoy learning new technologies and languages that can improve and evolve my workflow. 
 
 # 
