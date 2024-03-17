@@ -1,16 +1,47 @@
-# 👋 Hi, I'm Brayden Rayner
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.rayn05)<br>
-🔭 I’m currently working on <strong>[jpeg2ascii](https://github.com/brayner05/jpeg2ascii)</strong><br>🌱 I’m currently learning <strong>Kotlin, x86 Assembly</strong><br>
+# Brayden Rayner
+<a href="b.rayn05.github.io" style="display: block;">My Website</a>
+I am a first year computer science student at Dalhousie University. As well as a passionate programmer who enjoys creating all sorts of different tech projects. I enjoy learning new technologies and languages that can improve and evolve my workflow. 
+
+# 
+
+### 🧰 Languages and tools
+<img alt="c" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+<img alt="java" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img alt="Kotlin" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats
+<img alt="maven" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+          
+
+
+<img alt="html" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
+<img alt="css" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img alt="tailwind" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />                    
+          
+
+<img alt="javascript" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+        
+<img alt="react" align="left"  width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+
+<img alt="node" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+
+<img alt="sqlite" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+          
+
+
+<img alt="css" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<br/>
+
+#
+
+### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=brayner05&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brayner05&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brayner05&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=brayner05&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
