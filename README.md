@@ -3,7 +3,11 @@
 <a href="b.rayn05.github.io">My Website</a>
 <br />
 <br/>
-I am a second year computer science student at Dalhousie University. As well as a passionate programmer who enjoys creating all sorts of different tech projects. I enjoy learning new technologies and languages that can improve and evolve my workflow. 
+I am a computer science student who is passionate about systems programming, open-source software, and has a deep, insatiable curiosity about how everything works under the hood.
+
+For the past four years, I have mostly worked in C and Java, but I have recently started writing projects in Rust. My main interests span systems programming, embedded systems, computer graphics, and language development.
+
+Outside of programming I enjoy golfing on the weekends during the summer, and I am passionate about natural languages and linguistics. I currently speak English, French, and Italian, and I am studying some other languages in my free time.
 
 # 
 
