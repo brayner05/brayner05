@@ -52,6 +52,7 @@ Outside of programming I enjoy golfing on the weekends during the summer, and I 
 
 <img alt="css" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
+
 <br/>
 
 #
