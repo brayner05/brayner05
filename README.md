@@ -30,6 +30,8 @@ Outside of programming I enjoy golfing on the weekends during the summer, and I 
 
 <img alt="css" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
+<img alt="sass" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+
 <img alt="tailwind" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />                    
           
 
