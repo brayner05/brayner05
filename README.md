@@ -1,6 +1,6 @@
 # Brayden Rayner 👋
 
-<a href="brayn05.github.io">My Website</a>
+<a href="brayner05.github.io">My Website</a>
 <br />
 <br/>
 I am a computer science student who is passionate about systems programming, open-source software, and has a deep, insatiable curiosity about how everything works under the hood.
