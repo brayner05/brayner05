@@ -1,42 +1,32 @@
 # Brayden Rayner 👋
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/brayden-rayner/)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/u/brayner05/)
 
 <a href="https://brayner05.github.io">My Website</a>
 <br />
 <br/>
-I am a computer science student who is passionate about systems programming, open-source software, and has a deep, insatiable curiosity about how everything works under the hood.
+Computer science student with experience in data analytics. Passionate about systems programming and full-stack development with Laravel + Tailwind CSS & Alpine JS.
 
-For the past four years, I have mostly worked in C and Java, but I have recently started writing projects in Rust. My main interests span systems programming, embedded systems, computer graphics, and language development.
+Skilled in C, and Rust, but recently using C++ more and more for projects involving text parsing.
 
-Outside of programming I enjoy golfing on the weekends during the summer, and I am passionate about natural languages and linguistics. I currently speak English, French, and Italian, and I am studying some other languages in my free time.
-
-# 
+#
 
 ### 🧰 Languages and tools
-<img alt="c" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img alt="PHP" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
+<img alt="c" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
-<img alt="rust" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img alt="Tailwind CSS" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-<img alt="java" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img alt="SASS" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 
-<img alt="Kotlin" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />          
+<img alt="Express JS" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
-<img alt="html" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="Rust" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 
-<img alt="css" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img alt="sass" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img alt="C" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-<img alt="tailwind" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />                    
-
-<img alt="javascript" align="left"  width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-<img alt="react" align="left"  width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img alt="Debian" align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
-          
-
-<img alt="linux" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
+<img alt="C++" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <br/>
 
