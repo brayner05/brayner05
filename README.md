@@ -17,19 +17,21 @@ and am currently learning Turkish.
 #
 
 ### 🧰 Languages and tools
-## Languages
+## 💬 Languages
 <img alt="C" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img alt="C++" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <br />
+<br />
 
-## Tools
+## 🔨 Tools
 <img alt="Arduino" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img alt="Raspberry Pi" align="left"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 
 <br />
+<br />
 
-## Frameworks & Libraries
+## 📚 Frameworks & Libraries
 <img alt="Laravel" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img alt="Tailwind CSS" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img alt="SASS" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -42,6 +44,7 @@ and am currently learning Turkish.
 
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=brayner05&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 
 
