@@ -5,9 +5,14 @@
 <a href="https://brayner05.github.io">My Website</a>
 <br />
 <br/>
-Computer science student with experience in data analytics. Passionate about systems programming and full-stack development with Laravel + Tailwind CSS & Alpine JS.
+- Computer science student with experience in data analytics.
+- Passionate about DIY electronics and embedded systems projects in my free time.
+- Massive language nerd.
 
-Skilled in C, and Rust, but recently using C++ more and more for projects involving text parsing.
+I'm Brayden and I am a computer science student, currently on a gap year, with work experience in data analytics, and also a skilled programmer
+interested in low-level topics such as systems programming, driver development, kernels, etc. I like to work on DIY projects whenever I can because I love learning how things work
+by recreating them. Aside from programming, I enjoy working with my hands, especially building things and working with electronics. I also love to study languages, and speak English, Italian, French, Russian,
+and am currently learning Turkish.
 
 #
 
@@ -34,3 +39,4 @@ Skilled in C, and Rust, but recently using C++ more and more for projects involv
 
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=brayner05&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
