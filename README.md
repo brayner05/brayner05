@@ -21,13 +21,13 @@ and am currently learning Turkish.
 <img alt="C" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img alt="C++" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
-#
+<br />
 
 ## Tools
 <img alt="Arduino" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+<img alt="Raspberry Pi" align="left"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 
-#
+<br />
 
 ## Frameworks & Libraries
 <img alt="Laravel" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -42,6 +42,7 @@ and am currently learning Turkish.
 
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=brayner05&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 
 
