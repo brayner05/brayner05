@@ -19,6 +19,7 @@ and am currently learning Turkish.
 ## 🧰 Languages and tools
 ### 💬 Languages
 <img alt="C" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img alt="Embedded C" align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
 <img alt="C++" align="left"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <br />
@@ -44,6 +45,7 @@ and am currently learning Turkish.
 
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=brayner05&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 
 
